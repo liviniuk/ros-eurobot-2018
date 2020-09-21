@@ -1,5 +1,7 @@
 # ros-eurobot-2018
 
+![photo](photo.jpg)
+
 `How to run this:` <br/>
 
 `$ cd /path/to/catkin_ws/src` <br/>
